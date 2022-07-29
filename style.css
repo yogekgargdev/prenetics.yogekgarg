@@ -1,0 +1,23 @@
+body {
+  background-color: #ebffeb;
+}
+.navbar-brand {
+  font-weight: 750;
+  color: #7feb7f !important;
+}
+.searchbox {
+  width: 90%;
+  border-radius: 5px;
+  border-color: lightslategray;
+}
+.searchbutton {
+  border-radius: 5px;
+}
+.card {
+  display: none;
+
+  width: 90%;
+  border-radius: 5px;
+  box-shadow: 0 15px 10px #777;
+  opacity: 0.9;
+}
